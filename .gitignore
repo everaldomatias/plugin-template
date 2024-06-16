@@ -25,3 +25,5 @@ node_modules/
 # others
 sftp.json
 .vscode
+/node_modules
+/dist
